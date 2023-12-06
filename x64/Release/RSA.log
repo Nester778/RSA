@@ -1,7 +1,8 @@
-﻿  RSA.cpp
+﻿  Fanc.cpp
+  RSA.cpp
   Создание кода
-  29 of 316 functions ( 9.2%) were compiled, the rest were copied from previous compilation.
-    15 functions were new in current compilation
-    67 functions had inline decision re-evaluated but remain unchanged
+  24 of 316 functions ( 7.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
   RSA.vcxproj -> C:\Users\user\source\repos\RSA\x64\Release\RSA.exe
